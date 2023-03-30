@@ -1,24 +1,22 @@
-# permissionfront
+# PRM-FE
+Permission Request Manager - Vue Client
 
-## Project setup
-```
-npm install
-```
+# Introduction 
+This is a project based on VueBootstrap + TypeScript that seeks to handle permission requests in a simple CRUD
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Getting Started
+1.	Installation process
+    - Clone or download the repository  
+2.	Software dependencies
+    - NPM
+    
+# Build
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Open the terminal in the project root folder 
+  - run ```npm install```
+  
+#  Setup 
+  - Check your VUE_APP_API_URL in the .env and make sure it points to the API url
+  
+ # Run
+  - run ```npm run serve```
